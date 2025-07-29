@@ -1,2 +1,2 @@
 file1-modified
-new line in master
+merge dev to master
